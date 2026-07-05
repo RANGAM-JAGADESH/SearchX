@@ -1,6 +1,7 @@
 venv/
+.env
 __pycache__/
 *.pyc
-.env
-.vscode/
-.idea/
+.elastic_data/
+postgres_data/
+redis_data/
